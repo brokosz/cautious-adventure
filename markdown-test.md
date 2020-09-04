@@ -1,22 +1,22 @@
 # Markdown Test
 
-This is a test of **markdown** on gitbook. 
+This is a test of **markdown** on gitbook.
 
-### header 2
+## header 2
 
 how about a _bulleted list ?_
 
-* ayy
-* bee
-* sea
+- ayy
+- bee
+- sea
 
-1. three
-2. two
-3. one
+- three
 
+- two
+- one
 
+> This is a quote.
 
-> This is a quote. 
->
 > a block quote.
 
+- [ ] buy milk
